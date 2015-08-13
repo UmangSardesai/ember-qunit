@@ -17,6 +17,8 @@ $ npm start
 
 ### Run tests on BrowserStack
 
+Add Username and Automate key to browserstack.json file
+
 ```sh
 $ browserstack-runner
 ```
